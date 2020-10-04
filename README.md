@@ -25,4 +25,4 @@ Crazily, to me, of the oldest 500 comments *outside* of the top 10, the highest 
 
 Hence, "with great punctuality comes great responsiblity." If you write one of the first comments... take a moment to really think about what you want say!
 
-![infographic](https://github.com/jwhendy/reddit-comment-scraper/blob/master/infographic.svg)
+![infographic](https://github.com/jwhendy/reddit-comment-scraper/blob/master/infographic.png)

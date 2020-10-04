@@ -21,6 +21,8 @@ Yes, early comments are /way/ more likely to be upvoted. In fact, 25% of the top
 
 To calcualte "score dominance," I used the following: `comment_score/sum(comments)`. Thinking of a comment score like it's weight, if I threw the first 500 comments and the top comments into a bag, 0.5 means that comment was responsible for 50% of the weight of the whole bag.
 
-Crazily, to me, of the oldest 500 comments /outside/ of the top 10, the highest score dominance was 0.11. The "scroll burden" and snowball effect of early comments getting points and staying at the top is immense.
+Crazily, to me, of the oldest 500 comments *outside* of the top 10, the highest score dominance was 0.11 (which is a total outlier; the *3rd quartile* is only 5e-4). The "scroll burden" and snowball effect of early comments getting points and staying at the top is immense.
 
 Hence, "with great punctuality comes great responsiblity." If you write one of the first comments... take a moment to really think about what you want say!
+
+![infographic](https://github.com/jwhendy/reddit-comment-scraper/blob/master/infographic.svg)
